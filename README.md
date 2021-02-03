@@ -1,7 +1,7 @@
 # SistemaComanda
 
-Esse Software busca Auxiliar Donos de Restaurantes com um sistema de Comanda no qual é possível gerenciar diversas comandas ao mesmo tempo com controle de Estoque,controle de preço/produtos e relatórios, além de outras funcionalidades.
+This Software is util for manage eletronic controls in Restaurants. It is also used for control stock and feedbacks every with the best days of sells, etc...The Software is also necessary to control many eletronic controls in the same time. 
 
-O sistema ainda não foi finalizado, versão: 1.0
+This version is 1.0, the software is not finish.
 
-Desenvolvedor: Yuri Sanford.
+Developer: Yuri Sanford
